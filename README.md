@@ -1,5 +1,5 @@
-# 🚗🚶‍♂️ TripChain: Multi-Modal Mobility & Rewards Platform
-
+#TripChain: Multi-Modal Mobility & Rewards Platform
+<img src="https://github.com/KARAN-KATAKDHOND/Trip_Chain/blob/master/lib/assets/images/logo.png" alt="TripChain App Logo" height="30" style="vertical-align: middle;">
 TripChain is an innovative mobile application built with **Flutter** and **Firebase** designed to promote sustainable and efficient urban mobility. It leverages the concept of **trip-chaining**—linking multiple travel segments (walking, public transit, biking, etc.)—to offer users optimized routes, track their environmental impact, and reward them for choosing eco-friendly transportation.
 
 ---
