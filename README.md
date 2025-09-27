@@ -31,10 +31,34 @@ The application incorporates a modern, feature-rich architecture, providing the 
 
 To ensure these screenshots display correctly, please create a folder named **`assets/screenshots`** in the root of your repository and upload the corresponding images there.
 
+<h3 align="center">Application Screenshots</h3>
+
+<div align="center">
+    
 | Onboarding/Welcome Screen | Rewards Dashboard | Trip Analytics Overview |
 | :---: | :---: | :---: |
-| **[Login Screen](https://github.com/KARAN-KATAKDHOND/Trip_Chain/blob/master/lib/assets/screenshots/Log.jpg)** | **[Signup Screen](assets/screenshots/signup.jpg)** | **[Home Screen](assets/screenshots/analytics.jpg)** |
-| <img src="assets/screenshots/onboarding.png" width="300" alt="App Onboarding Screen"> | <img src="assets/screenshots/rewards_dashboard.png" width="300" alt="App Rewards Dashboard"> | <img src="assets/screenshots/analytics_overview.png" width="300" alt="App Trip Analytics"> |
+
+<table width="100%">
+  <tr>
+    <td align="center">
+      <a href="./assets/screenshots/onboarding.png"><img src="./assets/screenshots/onboarding.png" alt="App Onboarding Screen" width="300" style="max-width:100%;"></a>
+      <br>
+      <p><strong>[Onboarding Screen]</strong></p>
+    </td>
+    <td align="center">
+      <a href="./assets/screenshots/rewards_dashboard.png"><img src="https://github.com/KARAN-KATAKDHOND/Trip_Chain/blob/master/lib/assets/screenshots/rewards.jpg" alt="App Rewards Dashboard" width="300" style="max-width:100%;"></a>
+      <br>
+      <p><strong>[Rewards Dashboard]</strong></p>
+    </td>
+    <td align="center">
+      <a href="./assets/screenshots/analytics_overview.png"><img src="https://github.com/KARAN-KATAKDHOND/Trip_Chain/blob/master/lib/assets/screenshots/analytics.jpg" alt="App Trip Analytics" width="300" style="max-width:100%;"></a>
+      <br>
+      <p><strong>[Analytics Overview]</strong></p>
+    </td>
+  </tr>
+</table>
+
+</div>
 
 ---
 
