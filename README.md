@@ -41,7 +41,7 @@ To ensure these screenshots display correctly, please create a folder named **`a
 <table width="100%">
     <tr>
     <td align="center">
-      <a href="https://github.com/KARAN-KATAKDHOND/Trip_Chain/blob/master/lib/assets/screenshots/login.jpg"><img src="https://github.com/KARAN-KATAKDHOND/Trip_Chain/blob/master/lib/assets/screenshots/login.jpg" alt="App Login Screen" width="300" style="max-width:100%;"></a>
+      <a href="https://github.com/KARAN-KATAKDHOND/Trip_Chain/blob/master/lib/assets/screenshots/Log.jpg"><img src="https://github.com/KARAN-KATAKDHOND/Trip_Chain/blob/master/lib/assets/screenshots/Log.jpg" alt="App Login Screen" width="300" style="max-width:100%;"></a>
       <br>
       <p><strong>[Login Screen]</strong></p>
     </td>
@@ -59,7 +59,7 @@ To ensure these screenshots display correctly, please create a folder named **`a
     ########################################################################################################################################################################
   <tr>
     <td align="center">
-      <a href="./assets/screenshots/onboarding.png"><img src="./assets/screenshots/onboarding.png" alt="App Onboarding Screen" width="300" style="max-width:100%;"></a>
+      <a href="https://github.com/KARAN-KATAKDHOND/Trip_Chain/blob/master/lib/assets/screenshots/add_trip.jpg"><img src="https://github.com/KARAN-KATAKDHOND/Trip_Chain/blob/master/lib/assets/screenshots/add_trip.jpg" alt="App Trip Analytics" width="300" style="max-width:100%;"></a>
       <br>
       <p><strong>[Onboarding Screen]</strong></p>
     </td>
@@ -74,7 +74,24 @@ To ensure these screenshots display correctly, please create a folder named **`a
       <p><strong>[Analytics Overview]</strong></p>
     </td>
   </tr>
-    
+    #################################
+    <tr>
+    <td align="center">
+      <a href="https://github.com/KARAN-KATAKDHOND/Trip_Chain/blob/master/lib/assets/screenshots/profile.jpg"><img src="https://github.com/KARAN-KATAKDHOND/Trip_Chain/blob/master/lib/assets/screenshots/profile.jpg" alt="App Trip Analytics" width="300" style="max-width:100%;"></a>
+      <br>
+      <p><strong>[User Profile]</strong></p>
+    </td>
+    <td align="center">
+      <a href="./assets/screenshots/trip_history.png"><img src="https://github.com/KARAN-KATAKDHOND/Trip_Chain/blob/master/lib/assets/screenshots/trip_history.jpg" alt="App Rewards Dashboard" width="300" style="max-width:100%;"></a>
+      <br>
+      <p><strong>[Rewards Dashboard]</strong></p>
+    </td>
+    <td align="center">
+      <a href="./assets/screenshots/analytics_overview.png"><img src="https://github.com/KARAN-KATAKDHOND/Trip_Chain/blob/master/lib/assets/screenshots/analytics.jpg" alt="App Trip Analytics" width="300" style="max-width:100%;"></a>
+      <br>
+      <p><strong>[Analytics Overview]</strong></p>
+    </td>
+  </tr>
 </table>
 
 </div>
