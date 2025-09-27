@@ -39,6 +39,24 @@ To ensure these screenshots display correctly, please create a folder named **`a
 | :---: | :---: | :---: |
 
 <table width="100%">
+    <tr>
+    <td align="center">
+      <a href="https://github.com/KARAN-KATAKDHOND/Trip_Chain/blob/master/lib/assets/screenshots/login.jpg"><img src="https://github.com/KARAN-KATAKDHOND/Trip_Chain/blob/master/lib/assets/screenshots/login.jpg" alt="App Login Screen" width="300" style="max-width:100%;"></a>
+      <br>
+      <p><strong>[Login Screen]</strong></p>
+    </td>
+    <td align="center">
+      <a href="https://github.com/KARAN-KATAKDHOND/Trip_Chain/blob/master/lib/assets/screenshots/signup.jpg"><img src="https://github.com/KARAN-KATAKDHOND/Trip_Chain/blob/master/lib/assets/screenshots/signup.jpg" alt="App Rewards Dashboard" width="300" style="max-width:100%;"></a>
+      <br>
+      <p><strong>[Signup]</strong></p>
+    </td>
+    <td align="center">
+      <a href="https://github.com/KARAN-KATAKDHOND/Trip_Chain/blob/master/lib/assets/screenshots/homescreen.jpg"><img src="https://github.com/KARAN-KATAKDHOND/Trip_Chain/blob/master/lib/assets/screenshots/homescreen.jpg" alt="App Trip Analytics" width="300" style="max-width:100%;"></a>
+      <br>
+      <p><strong>[Homescreen]</strong></p>
+    </td>
+  </tr>
+    ########################################################################################################################################################################
   <tr>
     <td align="center">
       <a href="./assets/screenshots/onboarding.png"><img src="./assets/screenshots/onboarding.png" alt="App Onboarding Screen" width="300" style="max-width:100%;"></a>
@@ -56,6 +74,7 @@ To ensure these screenshots display correctly, please create a folder named **`a
       <p><strong>[Analytics Overview]</strong></p>
     </td>
   </tr>
+    
 </table>
 
 </div>
