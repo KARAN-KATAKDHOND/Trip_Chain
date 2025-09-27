@@ -33,7 +33,7 @@ To ensure these screenshots display correctly, please create a folder named **`a
 
 | Onboarding/Welcome Screen | Rewards Dashboard | Trip Analytics Overview |
 | :---: | :---: | :---: |
-| **[Login Screen](assets/screenshots/log.jpg)** | **[Signup Screen](assets/screenshots/signup.jpg)** | **[Home Screen](assets/screenshots/analytics.jpg)** |
+| **[Login Screen](https://github.com/KARAN-KATAKDHOND/Trip_Chain/blob/master/lib/assets/screenshots/Log.jpg)** | **[Signup Screen](assets/screenshots/signup.jpg)** | **[Home Screen](assets/screenshots/analytics.jpg)** |
 | <img src="assets/screenshots/onboarding.png" width="300" alt="App Onboarding Screen"> | <img src="assets/screenshots/rewards_dashboard.png" width="300" alt="App Rewards Dashboard"> | <img src="assets/screenshots/analytics_overview.png" width="300" alt="App Trip Analytics"> |
 
 ---
