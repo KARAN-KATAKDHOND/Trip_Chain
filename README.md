@@ -146,3 +146,5 @@ We welcome contributions! Feel free to report bugs, suggest features, or submit 
 Distributed under the MIT License. See the `LICENSE` file for more details.
 
 **Project Link:** [https://github.com/KARAN-KATAKDHOND/Trip\_Chain](https://github.com/KARAN-KATAKDHOND/Trip_Chain.git)
+
+Author :- Karan N. Katakdhond
